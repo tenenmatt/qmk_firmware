@@ -16,6 +16,8 @@
 
 #pragma once
 
+#define ONESHOT_TAP_TOGGLE 3
+
 #ifdef AUDIO_ENABLE
 #    define STARTUP_SONG SONG(PREONIC_SOUND)
 // #define STARTUP_SONG SONG(NO_SOUND)
